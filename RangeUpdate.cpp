@@ -46,6 +46,8 @@ int main()
 
     Query(x, y, val);
 
+    PartialSum(sum, length);
+
     PartialSum(arr, length);
 
     for (int i = 0; i < length; i++)
