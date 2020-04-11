@@ -2,6 +2,9 @@
   The Problem 
   Given a number n , find the number consisting of 0 and 1 only that is divisible by n
 */
+/*
+first commit 98339e4
+*/
 
 #include<bits/stdc++.h>
 
@@ -9,10 +12,10 @@ using namespace std;
 
 int main()
 {   int r;
-    int n = 17;
+    int n = 15;
     int number[n+1] = {0};
     int remainder[n+1] = {0};
-    int d = 1;
+    long long int d = 1;
     int answer;
     int i,j;
 
