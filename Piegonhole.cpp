@@ -4,6 +4,13 @@
 */
 /*
 first commit 98339e4
+Working But will give 1's digit on odd part
+for even it given 1's and 0's 
+
+also a long long integer issue 
+
+therefore 17 was not working and also there might be some number that will not Work 
+
 */
 
 #include<bits/stdc++.h>
