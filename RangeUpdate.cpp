@@ -6,6 +6,8 @@ update a such that
 
 from xth element to yth element 
 Add the value val to each element within these indices
+
+not Correct 
 */
 
 #include <bits/stdc++.h>

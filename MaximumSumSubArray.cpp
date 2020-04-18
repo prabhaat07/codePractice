@@ -6,7 +6,7 @@ using namespace std;
 
 int MaxSum(int arr[], int length)
 {
-    int ans = arr[0], sum;
+    int ans = 0, sum = 0;
 
     for (int i = 0; i < length; i++)
     {
